@@ -43,7 +43,7 @@ implementations.
 
 In order to run this demo you need at least:
 
-* [Go](https://golang.org/). This demo was written in version 1.16, but earlier versions may also work.
+* [Go](https://golang.org/). This demo was written in version 1.16, but versions >= 1.13 may also work.
 * A StackPath account. [Register a new account](https://control.stackpath.com/register/) at the StackPath portal to get started!
 * A StackPath API [client ID and secret pair](https://support.stackpath.com/hc/en-us/articles/360038048431-How-To-Generate-API-Credentials)
 * A stack to store demo services on
